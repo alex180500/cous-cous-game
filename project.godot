@@ -11,8 +11,10 @@ config_version=5
 [application]
 
 config/name="cous-cous-game"
+config/description="Gimmy Suca."
+run/main_scene="res://characters/frog.tscn"
 config/features=PackedStringArray("4.0", "Mobile")
-config/icon="res://icon.svg"
+config/icon="res://icon.jpg"
 
 [rendering]
 
