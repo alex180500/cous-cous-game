@@ -2,20 +2,20 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dnawrj6bw7o53"
-path="res://.godot/imported/piero_suca.jpg-a8159b453d80f23729e0d82d987c1ab3.ctex"
+uid="uid://ckn8jr1weckws"
+path="res://.godot/imported/background.png-095518f4ef94c68a391f65c17a076b67.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://images/photos/piero_suca.jpg"
-dest_files=["res://.godot/imported/piero_suca.jpg-a8159b453d80f23729e0d82d987c1ab3.ctex"]
+source_file="res://resources/pencil/images/background.png"
+dest_files=["res://.godot/imported/background.png-095518f4ef94c68a391f65c17a076b67.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1
@@ -25,7 +25,7 @@ mipmaps/generate=false
 mipmaps/limit=-1
 roughness/mode=0
 roughness/src_normal=""
-process/fix_alpha_border=true
+process/fix_alpha_border=false
 process/premult_alpha=false
 process/normal_map_invert_y=false
 process/hdr_as_srgb=false

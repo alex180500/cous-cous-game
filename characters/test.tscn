@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://bxykc1nrbcojk"]
+
+[ext_resource type="Texture2D" uid="uid://cpnj6hg11y4o" path="res://resources/pencil/images/menu.png" id="1_vaic6"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Menu" type="Sprite2D" parent="."]
+scale = Vector2(1.28337, 1.35)
+texture = ExtResource("1_vaic6")
+centered = false

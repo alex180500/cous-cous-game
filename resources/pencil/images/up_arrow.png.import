@@ -2,20 +2,20 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dflvm3ao1v51w"
-path="res://.godot/imported/lutz_marx.jpg-3d0a5bdfcfd889a7235882eb07c4244e.ctex"
+uid="uid://c5v6ikwjp7bn3"
+path="res://.godot/imported/up_arrow.png-2bf37baba1a9787c0b34d3d01f1cf2ac.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://images/photos/lutz_marx.jpg"
-dest_files=["res://.godot/imported/lutz_marx.jpg-3d0a5bdfcfd889a7235882eb07c4244e.ctex"]
+source_file="res://resources/pencil/images/up_arrow.png"
+dest_files=["res://.godot/imported/up_arrow.png-2bf37baba1a9787c0b34d3d01f1cf2ac.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1
@@ -25,7 +25,7 @@ mipmaps/generate=false
 mipmaps/limit=-1
 roughness/mode=0
 roughness/src_normal=""
-process/fix_alpha_border=true
+process/fix_alpha_border=false
 process/premult_alpha=false
 process/normal_map_invert_y=false
 process/hdr_as_srgb=false

@@ -2,20 +2,20 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cta07ssloifs4"
-path="res://.godot/imported/machi_stoned.jpg-0a435d4799aa9624d7d6174d4696414e.ctex"
+uid="uid://323lj7tdhcsw"
+path="res://.godot/imported/right_arrow.png-d10aaec7b547a8ee7fd6cb87c16b2be5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://images/photos/machi_stoned.jpg"
-dest_files=["res://.godot/imported/machi_stoned.jpg-0a435d4799aa9624d7d6174d4696414e.ctex"]
+source_file="res://resources/pencil/images/right_arrow.png"
+dest_files=["res://.godot/imported/right_arrow.png-d10aaec7b547a8ee7fd6cb87c16b2be5.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=3
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1
@@ -25,7 +25,7 @@ mipmaps/generate=false
 mipmaps/limit=-1
 roughness/mode=0
 roughness/src_normal=""
-process/fix_alpha_border=true
+process/fix_alpha_border=false
 process/premult_alpha=false
 process/normal_map_invert_y=false
 process/hdr_as_srgb=false
